@@ -24,3 +24,9 @@ proguard/
 
 # Log Files
 *.log
+/.idea/
+.DS_Store
+TestMyLocation.iml
+gradle/
+gradlew
+gradlew.bat
